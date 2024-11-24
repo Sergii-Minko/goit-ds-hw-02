@@ -46,8 +46,8 @@ Dockerfile
 
 # Збірка Docker-образу
 
-docker build . -t sergiiminko/goit-ds-hw-01
+docker build . -t sergiiminko/goit-ds-hw-02
 
 # Запуск контейнера в інтерактивному режимі
 
-docker run -it sergiiminko/goit-ds-hw-01-2
+docker run -it sergiiminko/goit-ds-hw-02

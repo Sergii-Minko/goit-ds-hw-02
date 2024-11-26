@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "goit-ds-hw-01"
+name = "goit-ds-hw-02"
 version = "0.1.0"
-description = "AdressBookBot"
+description = "SQL Home Work"
 authors = ["Sergii Minko <minkosergii@gmail.com>"]
 license = "free"
 readme = "README.md"
